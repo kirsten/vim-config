@@ -71,7 +71,6 @@ else
   Plugin 'matt-royal/diffthese'
   Plugin 'camelcasemotion'
   Plugin 'nertzy/edit-plus'
-  Plugin 'brysgo/quickfixfix'
   Plugin 'Lokaltog/vim-easymotion'
   Plugin 'regreplop.vim'
   Plugin 'Peeja/insert_mode_background_color'
