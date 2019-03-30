@@ -98,7 +98,7 @@ else
   Plugin 'epmatsw/ag.vim'
   Plugin 'tpope/vim-abolish'
   Plugin 'henrik/vim-qargs'
-  Plugin 'ctrlpvim/ctrlp.vim'
+  Plugin 'junegunn/fzf.vim'
 
   "
   " Navigation
