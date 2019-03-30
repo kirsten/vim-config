@@ -75,7 +75,6 @@ lets you view and cycle through your previous copy and paste registers on the fl
   * It also supports adding a `.projections.json` file to your project so you can teach Vim how to find the spec for the current source file. See the [README](https://github.com/tpope/vim-projectionist) for more details.
 * [rainbow-parentheses](https://github.com/kien/rainbow_parentheses.vim) highlights nested parentheses, brackets, and curly braces with differing colors so you can match them up more easily.
   * Use `,rp` to toggle rainbow parenthesis mode in the current file. By default it is off.
-* [neoformat](https://github.com/sbdchd/neoformat) lets you run the code formatter of your choice on your code, bound to `gg-G`.
 
 ## Window Management
 * [ZoomWin](http://www.vim.org/scripts/script.php?script_id=508) lets you close all other windows with `<C-w>o`.  You can restore all the closed windows with the same command.  Useful with `:tabo` to close everything but what you're working on.
