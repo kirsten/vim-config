@@ -120,7 +120,7 @@ else
   Plugin 'quentindecock/vim-cucumber-align-pipes'
   Plugin 'juvenn/mustache.vim'
   Plugin 'fatih/vim-go'
-  Plugin 'rosstimson/scala-vim-support'
+  Plugin 'derekwyatt/vim-scala'
   Plugin 'guns/vim-clojure-static'
   Plugin 'chrisbra/csv.vim'
   Plugin 'elzr/vim-json'
