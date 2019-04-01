@@ -85,6 +85,7 @@ else
   Plugin 'editorconfig/editorconfig-vim'
   Plugin 'tpope/vim-projectionist'
   Plugin 'kien/rainbow_parentheses.vim'
+  Plugin 'junegunn/goyo.vim'
 
   "
   " Window Management
