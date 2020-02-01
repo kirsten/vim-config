@@ -134,6 +134,7 @@ else
   Plugin 'elixir-lang/vim-elixir'
   Plugin 'luan/vim-concourse'
   Plugin 'posva/vim-vue'
+  Plugin 'neovimhaskell/haskell-vim'
 
   "
   " Development Tool Integration
