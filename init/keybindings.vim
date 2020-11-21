@@ -125,9 +125,6 @@ vmap <leader>a :call AckVisual()<CR>
 " Recalculate diff when it gets messed up.
 nmap du :diffupdate<CR>
 
-" Gundo.vim
-map <leader>u :GundoToggle<CR>
-
 " FZF
 map <leader>f :FZF<CR>
 
